@@ -2407,3 +2407,456 @@ FPackageName: Skipped package /Game/StarterContent/Textures/T_Gradinet_01_Mat ha
 [2025.12.08-08.50.07:877][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2960.828613
 [2025.12.08-08.50.08:346][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.08-08.50.08:346][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2961.209229, Update Interval: 342.388367
+[2025.12.08-08.56.23:526][636]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3336.478271
+[2025.12.08-08.56.24:010][640]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-08.56.24:010][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3336.863037, Update Interval: 300.098877
+[2025.12.08-08.57.40:719][871]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2025.12.08-08.57.40:726][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/H1/N8J5S0W4KROBKAQWP486GJ_Auto4
+[2025.12.08-08.57.40:726][871]LogSavePackage: Moving '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/N8J5S0W4KROBKAQWP486GJ_Auto414B227A541DD55CD7E2ADC8F7783EA16.tmp' to '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/H1/N8J5S0W4KROBKAQWP486GJ_Auto4.uasset'
+[2025.12.08-08.57.40:731][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.099
+[2025.12.08-08.57.40:731][871]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
+[2025.12.08-08.57.40:732][871]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Epslidingdooropen] ([2] browsable assets)...
+[2025.12.08-08.57.40:758][871]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Epslidingdooropen.Epslidingdooropen]
+[2025.12.08-08.57.40:758][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Epslidingdooropen]
+[2025.12.08-08.57.40:769][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Epslidingdooropen_Auto4
+[2025.12.08-08.57.40:769][871]LogSavePackage: Moving '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/Epslidingdooropen_Auto400F8A7CC4E039E186D22B6AF3016474F.tmp' to '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/Autosaves/Game/Epslidingdooropen_Auto4.uasset'
+[2025.12.08-08.57.40:771][871]LogFileHelpers: Auto-saving content packages took 0.042
+[2025.12.08-08.59.24:341][998]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Epslidingdooropen_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.750
+[2025.12.08-08.59.24:342][998]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Epslidingdooropen_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.750
+[2025.12.08-08.59.24:439][999]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Epslidingdooropen_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.750
+[2025.12.08-08.59.24:532][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Epslidingdooropen_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.750
+[2025.12.08-08.59.24:631][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Epslidingdooropen_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=4.500 Y=0.000 Z=3.750
+[2025.12.08-09.01.45:754][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.12.08-09.01.57:357][261]LogDerivedDataCache: C:/Users/CW/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.216 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.08-09.02.08:012][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3680.961426
+[2025.12.08-09.02.09:007][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.02.09:007][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3681.614014, Update Interval: 304.279297
+[2025.12.08-09.02.42:761][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2025.12.08-09.03.05:187][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-09.03.05:354][720]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Epslidingdooropen] ([2] browsable assets)...
+[2025.12.08-09.03.05:364][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Epslidingdooropen.Epslidingdooropen]
+[2025.12.08-09.03.05:364][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Epslidingdooropen]
+[2025.12.08-09.03.05:364][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Epslidingdooropen" FILE="../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/Epslidingdooropen.uasset" SILENT=true
+[2025.12.08-09.03.05:376][720]LogSavePackage: Moving output files for package: /Game/Epslidingdooropen
+[2025.12.08-09.03.05:376][720]LogSavePackage: Moving '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/Epslidingdooropen60A4BA764EA3BE530249CABA8A26443C.tmp' to '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/Epslidingdooropen.uasset'
+[2025.12.08-09.03.05:419][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 232.349 ms
+[2025.12.08-09.03.05:522][720]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-09.03.05:522][720]LogContentValidation: Enabled validators:
+[2025.12.08-09.03.05:524][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-09.03.05:524][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-09.03.05:524][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-09.03.05:524][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-09.03.05:524][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-09.03.05:524][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-09.03.05:533][720]AssetCheck: /Game/Epslidingdooropen Validating asset
+[2025.12.08-09.07.41:279][181]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2025.12.08-09.07.41:282][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.066
+[2025.12.08-09.07.41:282][181]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Epslidingdooropen] ([2] browsable assets)...
+[2025.12.08-09.07.41:304][181]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Epslidingdooropen.Epslidingdooropen]
+[2025.12.08-09.07.41:304][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Epslidingdooropen]
+[2025.12.08-09.07.41:318][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Epslidingdooropen_Auto5
+[2025.12.08-09.07.41:318][181]LogSavePackage: Moving '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/Epslidingdooropen_Auto5004D724B4A45A89AEB7C3AB3033DAD13.tmp' to '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/Autosaves/Game/Epslidingdooropen_Auto5.uasset'
+[2025.12.08-09.07.41:319][181]LogFileHelpers: Auto-saving content packages took 0.038
+[2025.12.08-09.08.03:832][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4036.782715
+[2025.12.08-09.08.04:845][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.08.04:846][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4037.449463, Update Interval: 308.293091
+[2025.12.08-09.10.57:484][308]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-09.10.57:485][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.10.57:627][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.12.08-09.11.53:360][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Epslidingdooropen.Epslidingdooropen
+[2025.12.08-09.11.53:361][310]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.08-09.11.53:362][310]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.12.08-09.12.30:794][738]LogCurveEditor: Warning: A key on CurveFloat_0 could not be moved because there was already a key at that time.
+[2025.12.08-09.13.47:118][727]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4380.073730
+[2025.12.08-09.13.47:904][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.13.47:904][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4380.847168, Update Interval: 312.165894
+[2025.12.08-09.14.22:822][740]LogSlate: Window 'Epslidingdooropen' being destroyed
+[2025.12.08-09.14.22:961][740]LogSlate: Window 'Epslidingdooropen' being destroyed
+[2025.12.08-09.14.22:967][740]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-09.14.22:967][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.14.23:264][740]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-09.14.23:264][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.14.23:392][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.12.08-09.14.26:008][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Epslidingdooropen.Epslidingdooropen
+[2025.12.08-09.14.26:008][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.08-09.14.26:009][782]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.12.08-09.18.02:164][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.12.08-09.18.02:167][183]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.075
+[2025.12.08-09.18.02:167][183]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Epslidingdooropen] ([2] browsable assets)...
+[2025.12.08-09.18.02:180][183]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Epslidingdooropen.Epslidingdooropen]
+[2025.12.08-09.18.02:181][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Epslidingdooropen]
+[2025.12.08-09.18.02:191][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Epslidingdooropen_Auto6
+[2025.12.08-09.18.02:191][183]LogSavePackage: Moving '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/Epslidingdooropen_Auto670CFDE324C5A851E40DC36A9508CE40B.tmp' to '../../../../../../Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Saved/Autosaves/Game/Epslidingdooropen_Auto6.uasset'
+[2025.12.08-09.18.02:192][183]LogFileHelpers: Auto-saving content packages took 0.026
+[2025.12.08-09.19.40:595][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4733.558594
+[2025.12.08-09.19.41:594][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.19.41:594][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4734.223633, Update Interval: 328.805206
+[2025.12.08-09.23.49:966][598]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 0 (Found bundle for host: 0x69869040c60 [serially])
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 7 (Closing connection)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.12.08-09.23.50:666][600]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD29A6581-4657-CF87-8244-14A6313C36BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=501ee7644d72afd7707b8ca9ed695429%7Cc6aedfc9fa24475f97713a87ce325c04%7C3d12e382-f241-42b1-bd56-5c7670a69c8b&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.12.08-09.23.50:669][601]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.12.08-09.23.50:669][601]LogHttp: Warning: 00000698F3C66900: libcurl info message cache 13 (Closing connection)
+[2025.12.08-09.23.52:682][603]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62324'.
+[2025.12.08-09.23.52:693][603]LogUdpMessaging: Display: Added local interface '192.168.99.38' to multicast group '230.0.0.1:6666'
+[2025.12.08-09.25.55:638][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5108.594727
+[2025.12.08-09.25.56:642][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.25.56:642][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5109.261719, Update Interval: 303.614624
+[2025.12.08-09.27.34:373][301]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Epslidingdooropen.Epslidingdooropen_C
+[2025.12.08-09.27.34:374][301]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Epslidingdooropen.Epslidingdooropen_C
+[2025.12.08-09.27.34:379][301]LogActorFactory: Actor Factory spawned Blueprint /Game/Epslidingdooropen.Epslidingdooropen as actor: Epslidingdooropen_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_0
+[2025.12.08-09.27.34:385][301]LogActorFactory: Actor Factory spawned Blueprint /Game/Epslidingdooropen.Epslidingdooropen as actor: Epslidingdooropen_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_0
+[2025.12.08-09.27.36:344][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2025.12.08-09.27.36:347][348]LogEditorActor: Deleted 0 Actors (0.073 secs)
+[2025.12.08-09.27.36:362][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Epslidingdooropen.Epslidingdooropen_C
+[2025.12.08-09.27.36:362][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Epslidingdooropen.Epslidingdooropen_C
+[2025.12.08-09.27.36:371][348]LogActorFactory: Actor Factory spawned Blueprint /Game/Epslidingdooropen.Epslidingdooropen as actor: Epslidingdooropen_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912
+[2025.12.08-09.27.36:376][348]LogActorFactory: Actor Factory spawned Blueprint /Game/Epslidingdooropen.Epslidingdooropen as actor: Epslidingdooropen_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912
+[2025.12.08-09.28.10:035][759]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-09.28.10:044][759]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-09.28.10:045][759]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.12.08-09.28.10:061][759]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 16.701 ms (total: 150.602 ms)
+[2025.12.08-09.28.10:076][759]LogPlayLevel: [PlayLevel] Compiling Epslidingdooropen before play...
+[2025.12.08-09.28.10:279][759]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2025.12.08-09.28.10:285][759]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2025.12.08-09.28.10:287][759]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.08-09.28.10:345][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058541s)
+[2025.12.08-09.28.10:345][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.058746s)
+[2025.12.08-09.28.10:380][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2025.12.08-09.28.10:381][759]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.08-09.28.10:385][759]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap'.
+[2025.12.08-09.28.10:387][759]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-09.28.10:387][759]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-09.28.10:387][759]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-09.28.10:387][759]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-09.28.10:397][759]LogWorldPartition: Display: WorldPartition initialize took 10.751 ms (total: 6.10 sec)
+[2025.12.08-09.28.10:398][759]LogPlayLevel: PIE: World Init took: (0.016169s)
+[2025.12.08-09.28.10:399][759]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.12.08-09.28.10:400][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-09.28.10:400][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-09.28.10:400][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-09.28.10:400][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-09.28.10:400][759]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.12.08-09.28.10:400][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-09.28.10:400][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.12.08-09.28.10:400][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-09.28.10:400][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-09.28.10:400][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-09.28.10:400][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-09.28.10:410][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-09.28.10:472][759]LogAudioMixer: Display: Using Audio Hardware Device HDTV (6- High Definition Audio Device)
+[2025.12.08-09.28.10:473][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-09.28.10:473][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-09.28.10:473][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-09.28.10:476][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.12.08-09.28.10:476][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.12.08-09.28.10:481][759]LogInit: FAudioDevice initialized with ID 11.
+[2025.12.08-09.28.10:481][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.12.08-09.28.10:481][759]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2025.12.08-09.28.10:481][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.12.08-09.28.10:481][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.08-09.28.10:493][759]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-09.28.10:507][759]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.10:513][759]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.08-01.28.10
+[2025.12.08-09.28.10:516][759]LogWorld: Bringing up level for play took: 0.021167
+[2025.12.08-09.28.10:522][759]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.12.08-09.28.10:538][759]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.10:540][759]PIE: Server logged in
+[2025.12.08-09.28.10:543][759]PIE: Play in editor total start time 0.499 seconds.
+[2025.12.08-09.28.15:116][890]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.16:137][922]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.21:143][ 93]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.22:166][128]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.27:183][296]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.28:218][331]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.33:241][497]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.34:261][532]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.39:276][701]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.40:303][733]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.45:327][899]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.46:367][933]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.51:385][ 98]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.52:422][133]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.57:429][301]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.28.58:454][333]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.03:457][500]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.04:293][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-09.29.04:293][525]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.08-09.29.04:294][525]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-09.29.04:296][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.29.04:296][525]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.12.08-09.29.04:317][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-09.29.04:326][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.29.04:366][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-09.29.04:367][525]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.08-09.29.04:367][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.12.08-09.29.04:370][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.12.08-09.29.04:385][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.12.08-09.29.04:479][526]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.12.08-09.29.13:956][654]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.right door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.13:957][654]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.left door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.13:957][654]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.750 Z=12.188
+[2025.12.08-09.29.13:957][654]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.right door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.13:957][654]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.right door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.13:957][654]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.left door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.13:957][654]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.left door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.14:955][667]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.right door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.14:955][667]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.left door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.14:955][667]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=4.750 Z=12.188
+[2025.12.08-09.29.14:955][667]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.right door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.14:955][667]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.right door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.14:956][667]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.left door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.14:956][667]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF77A902_1900197912.left door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=3.250
+[2025.12.08-09.29.31:870][883]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-09.29.31:879][883]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-09.29.31:879][883]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.12.08-09.29.31:892][883]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 13.058 ms (total: 163.661 ms)
+[2025.12.08-09.29.31:892][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-09.29.31:893][883]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.08-09.29.31:916][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023656s)
+[2025.12.08-09.29.31:916][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.023729s)
+[2025.12.08-09.29.31:959][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2025.12.08-09.29.31:962][883]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.08-09.29.31:964][883]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap'.
+[2025.12.08-09.29.31:965][883]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-09.29.31:965][883]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-09.29.31:965][883]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-09.29.31:968][883]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-09.29.31:973][883]LogWorldPartition: Display: WorldPartition initialize took 7.989 ms (total: 6.11 sec)
+[2025.12.08-09.29.31:973][883]LogPlayLevel: PIE: World Init took: (0.011081s)
+[2025.12.08-09.29.31:975][883]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.12.08-09.29.31:975][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-09.29.31:975][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-09.29.31:975][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-09.29.31:975][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-09.29.31:975][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.12.08-09.29.31:975][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-09.29.31:975][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.12.08-09.29.31:975][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-09.29.31:975][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-09.29.31:975][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-09.29.31:975][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-09.29.31:978][883]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-09.29.32:005][883]LogAudioMixer: Display: Using Audio Hardware Device HDTV (6- High Definition Audio Device)
+[2025.12.08-09.29.32:006][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-09.29.32:006][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-09.29.32:006][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-09.29.32:007][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.12.08-09.29.32:007][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.12.08-09.29.32:010][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.12.08-09.29.32:010][883]LogInit: FAudioDevice initialized with ID 12.
+[2025.12.08-09.29.32:010][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.12.08-09.29.32:010][883]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2025.12.08-09.29.32:010][883]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.08-09.29.32:029][883]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-09.29.32:038][883]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.32:043][883]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.08-01.29.32
+[2025.12.08-09.29.32:044][883]LogWorld: Bringing up level for play took: 0.014669
+[2025.12.08-09.29.32:048][883]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.12.08-09.29.32:054][883]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.32:059][883]PIE: Server logged in
+[2025.12.08-09.29.32:059][883]PIE: Play in editor total start time 0.178 seconds.
+[2025.12.08-09.29.36:795][ 20]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.37:824][ 53]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.42:845][213]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.43:871][244]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.48:881][411]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.49:896][445]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.54:900][608]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.55:966][643]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.55:992][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-09.29.55:992][643]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.08-09.29.55:992][643]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.29.55:993][643]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-09.29.55:995][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.29.55:995][643]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.12.08-09.29.56:026][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-09.29.56:034][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.29.56:071][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-09.29.56:072][643]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.08-09.29.56:072][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.12.08-09.29.56:075][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.12.08-09.29.56:083][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-09.29.56:089][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.12.08-09.29.56:172][644]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.12.08-09.31.48:295][953]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Epslidingdooropen.Epslidingdooropen_C
+[2025.12.08-09.31.48:295][953]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Epslidingdooropen.Epslidingdooropen_C
+[2025.12.08-09.31.48:301][953]LogActorFactory: Actor Factory spawned Blueprint /Game/Epslidingdooropen.Epslidingdooropen as actor: Epslidingdooropen_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_1
+[2025.12.08-09.31.48:306][953]LogActorFactory: Actor Factory spawned Blueprint /Game/Epslidingdooropen.Epslidingdooropen as actor: Epslidingdooropen_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_1
+[2025.12.08-09.31.49:360][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.12.08-09.31.49:363][966]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2025.12.08-09.31.49:379][966]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Epslidingdooropen.Epslidingdooropen_C
+[2025.12.08-09.31.49:379][966]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Epslidingdooropen.Epslidingdooropen_C
+[2025.12.08-09.31.49:388][966]LogActorFactory: Actor Factory spawned Blueprint /Game/Epslidingdooropen.Epslidingdooropen as actor: Epslidingdooropen_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF78A902_1079473089
+[2025.12.08-09.31.49:392][966]LogActorFactory: Actor Factory spawned Blueprint /Game/Epslidingdooropen.Epslidingdooropen as actor: Epslidingdooropen_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Epslidingdooropen_C_UAID_54BF646041EF78A902_1079473089
+[2025.12.08-09.31.49:775][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5462.732422
+[2025.12.08-09.31.50:249][978]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-09.31.50:250][978]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5463.127441, Update Interval: 327.287201
+[2025.12.08-09.32.57:930][808]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-09.32.57:939][808]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-09.32.57:939][808]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.12.08-09.32.57:952][808]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 13.073 ms (total: 176.734 ms)
+[2025.12.08-09.32.57:953][808]LogPlayLevel: [PlayLevel] Compiling Epslidingdooropen before play...
+[2025.12.08-09.32.58:212][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.12.08-09.32.58:214][808]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2025.12.08-09.32.58:215][808]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.08-09.32.58:241][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026109s)
+[2025.12.08-09.32.58:241][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.026163s)
+[2025.12.08-09.32.58:275][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2025.12.08-09.32.58:276][808]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.08-09.32.58:279][808]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap'.
+[2025.12.08-09.32.58:280][808]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-09.32.58:280][808]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-09.32.58:280][808]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-09.32.58:280][808]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-09.32.58:290][808]LogWorldPartition: Display: WorldPartition initialize took 9.554 ms (total: 6.12 sec)
+[2025.12.08-09.32.58:290][808]LogPlayLevel: PIE: World Init took: (0.013547s)
+[2025.12.08-09.32.58:291][808]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.12.08-09.32.58:291][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-09.32.58:291][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-09.32.58:292][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-09.32.58:292][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-09.32.58:292][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.12.08-09.32.58:292][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-09.32.58:292][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.12.08-09.32.58:292][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-09.32.58:292][808]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-09.32.58:292][808]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-09.32.58:292][808]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-09.32.58:295][808]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-09.32.58:324][808]LogAudioMixer: Display: Using Audio Hardware Device HDTV (6- High Definition Audio Device)
+[2025.12.08-09.32.58:324][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-09.32.58:324][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-09.32.58:324][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-09.32.58:327][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.12.08-09.32.58:327][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.12.08-09.32.58:339][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.12.08-09.32.58:339][808]LogInit: FAudioDevice initialized with ID 13.
+[2025.12.08-09.32.58:339][808]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2025.12.08-09.32.58:339][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.12.08-09.32.58:339][808]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.08-09.32.58:347][808]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-09.32.58:377][808]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.32.58:385][808]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.08-01.32.58
+[2025.12.08-09.32.58:386][808]LogWorld: Bringing up level for play took: 0.037235
+[2025.12.08-09.32.58:390][808]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.12.08-09.32.58:397][808]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.32.58:399][808]PIE: Server logged in
+[2025.12.08-09.32.58:400][808]PIE: Play in editor total start time 0.461 seconds.
+[2025.12.08-09.33.02:923][935]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.03:997][969]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.08:998][134]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.10:034][168]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.15:065][335]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.16:093][369]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.21:119][538]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.22:154][573]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.26:646][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-09.33.26:646][719]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.08-09.33.26:647][719]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.33.26:647][719]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-09.33.26:650][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.33.26:650][719]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.12.08-09.33.26:681][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-09.33.26:688][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.33.26:722][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-09.33.26:725][719]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.08-09.33.26:725][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.12.08-09.33.26:727][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.12.08-09.33.26:742][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.12.08-09.33.26:840][720]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.12.08-09.33.42:922][926]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.33.47:810][995]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.33.54:256][ 79]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.34.03:039][190]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.34.14:623][345]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.34.21:263][436]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.34.24:458][481]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.34.28:191][529]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.34.31:306][572]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.34.33:492][602]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.08-09.34.35:740][633]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-09.34.35:747][633]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-09.34.35:747][633]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.12.08-09.34.35:760][633]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 13.108 ms (total: 189.843 ms)
+[2025.12.08-09.34.35:760][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-09.34.35:760][633]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.08-09.34.35:787][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026836s)
+[2025.12.08-09.34.35:787][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.026894s)
+[2025.12.08-09.34.35:822][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.12.08-09.34.35:824][633]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.08-09.34.35:825][633]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap'.
+[2025.12.08-09.34.35:826][633]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-09.34.35:826][633]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-09.34.35:826][633]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-09.34.35:826][633]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-09.34.35:835][633]LogWorldPartition: Display: WorldPartition initialize took 8.720 ms (total: 6.12 sec)
+[2025.12.08-09.34.35:835][633]LogPlayLevel: PIE: World Init took: (0.011580s)
+[2025.12.08-09.34.35:836][633]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.12.08-09.34.35:837][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-09.34.35:837][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-09.34.35:837][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-09.34.35:837][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-09.34.35:837][633]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.12.08-09.34.35:837][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-09.34.35:837][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.12.08-09.34.35:837][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-09.34.35:837][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-09.34.35:837][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-09.34.35:837][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-09.34.35:841][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-09.34.35:867][633]LogAudioMixer: Display: Using Audio Hardware Device HDTV (6- High Definition Audio Device)
+[2025.12.08-09.34.35:867][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-09.34.35:867][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-09.34.35:867][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-09.34.35:869][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.12.08-09.34.35:869][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.12.08-09.34.35:872][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.12.08-09.34.35:872][633]LogInit: FAudioDevice initialized with ID 14.
+[2025.12.08-09.34.35:872][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.12.08-09.34.35:872][633]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2025.12.08-09.34.35:872][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.08-09.34.35:885][633]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.08-09.34.35:910][633]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.35:917][633]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.08-01.34.35
+[2025.12.08-09.34.35:919][633]LogWorld: Bringing up level for play took: 0.032632
+[2025.12.08-09.34.35:924][633]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.12.08-09.34.35:930][633]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.35:933][633]PIE: Server logged in
+[2025.12.08-09.34.35:934][633]PIE: Play in editor total start time 0.188 seconds.
+[2025.12.08-09.34.40:671][774]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.41:733][809]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.46:762][973]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.47:756][  5]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.52:763][158]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.53:815][191]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.57:929][320]Set new viewmode: ShaderComplexity
+[2025.12.08-09.34.58:818][389]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.34.59:868][494]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.35.04:877][951]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.35.05:884][ 54]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.35.06:560][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-09.35.06:560][115]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.08-09.35.06:561][115]LogPhysics: Warning: Scale for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_54BF646041EF74A902_2066912377.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.12.08-09.35.06:562][115]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-09.35.06:566][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.35.06:567][115]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.12.08-09.35.06:578][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-09.35.06:590][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-09.35.06:636][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-09.35.06:638][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.08-09.35.06:638][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.12.08-09.35.06:642][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.12.08-09.35.06:663][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2025.12.08-09.35.06:817][116]Cmd: SELECT NONE
+[2025.12.08-09.35.06:827][116]LogPlayLevel: Display: Destroying online subsystem :Context_20
