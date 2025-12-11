@@ -5,6 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+=======
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/cubemove.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/as.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/91/PWXCDB2TGZAS6UUD5AXDDN.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/0T/LIW6YJT4G980EAS2D9RSJV.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/H1/N8J5S0W4KROBKAQWP486GJ.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/cubefall.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/HD/Y0AFOK2XTVEUJD0XB3EZWZ.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/36/IW8NXHZVPBDUDJ0755T2NN.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/Elevetoranimation.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/YA/JS7BVTBPSUCPBPO5WJVJKX.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K9/U2ICBQDS3E69QNFZKUTQC7.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/AG/CW6MY8FJHE540FVCPEGG3J.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/50/DWLOMCM6RIJ2MFNY66SRFB.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/w.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/N1/8XBTH4X2NCQVDAPZRAGQOA.uasset",
+				"C:/Users/CW/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/Epslidingdooropen.uasset",
+>>>>>>> 47b5fc73ef41fc12c439ec67a0986563b8d2d54c
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D6/ZKPDEMLYGPM85DDKNGN5A2.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/27/A1D34ASCZ6GUIWOPJPZ25I.uasset",
@@ -298,6 +319,10 @@
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/3/N3/9XTO9FQ9C2BILKQO731CA0.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/0/N3/XW0R514TS1NAEKQ47GIJ3Z.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/D/AP/8Y0JW5FFQGVZQUG0HP6LIZ.uasset",
+<<<<<<< HEAD
+=======
+				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/8/PM/2ENNQK78LKJ9L4M9DZ8YVR.uasset",
+>>>>>>> 47b5fc73ef41fc12c439ec67a0986563b8d2d54c
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/3/B4/25TRMZDGJNR8K4PSRMVCA7.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/5/OH/CUECJ466LUQ573QCLZ50I9.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/8/N4/QGK1NIIL6TEYUOW4E2X4LH.uasset",
@@ -466,6 +491,7 @@
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalObjects__/NewFolder/FirstPersonMap/2/UE/SEFUNI60YWAFHD499U89CE.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalObjects__/NewFolder/FirstPersonMap/0/AZ/M4S611S25XCONQD715DBFA.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/NewFolder/FirstPersonMap.umap",
+<<<<<<< HEAD
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/2/2B/SP00GHM1BK6R8W7JXGF0H6.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/E/K6/C79FR68QTY045HJMMV4YUW.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/0/12/VVPFBYTS4IB3168ZNND0CF.uasset",
@@ -478,6 +504,8 @@
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/NewFolder/TriggerBox_Blueprint.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/MyProject2 5.5 5.5/Content/__ExternalActors__/NewFolder/FirstPersonMap/8/PM/2ENNQK78LKJ9L4M9DZ8YVR.uasset",
+=======
+>>>>>>> 47b5fc73ef41fc12c439ec67a0986563b8d2d54c
 				"D:/LevelDesign-2504491/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/LevelDesign-2504491/MyProject2 5.5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/2504491/Documents/GitHub/LevelDesign-2504491/LevelDesign-2504491/MyProject2 5.5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",

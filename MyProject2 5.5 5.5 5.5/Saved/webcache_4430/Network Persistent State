@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"net":{"http_server_properties":{"servers":[],"version":5},"network_qualities":{"CAESABiAgICA+P////8B":"4G"}}}
+=======
+{"net":{"network_qualities":{"CAESABiAgICA+P////8B":"4G"}}}
+>>>>>>> 47b5fc73ef41fc12c439ec67a0986563b8d2d54c
